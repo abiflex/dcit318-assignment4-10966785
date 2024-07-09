@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\bin\Debug\Drawing Form.exe.config
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\bin\Debug\Drawing Form.exe
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\bin\Debug\Drawing Form.pdb
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing Form.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing_Form.Form1.resources
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing_Form.Properties.Resources.resources
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing Form.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing Form.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing Form.exe
+C:\Users\HP\source\repos\Drawing Form\Drawing Form\obj\Debug\Drawing Form.pdb
