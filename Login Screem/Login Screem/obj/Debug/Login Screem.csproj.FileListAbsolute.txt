@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Login Screem\Login Screem\bin\Debug\Login Screem.exe.config
+C:\Users\HP\source\repos\Login Screem\Login Screem\bin\Debug\Login Screem.exe
+C:\Users\HP\source\repos\Login Screem\Login Screem\bin\Debug\Login Screem.pdb
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login Screem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login_Screem.Form1.resources
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login_Screem.Form2.resources
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login_Screem.Properties.Resources.resources
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login Screem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login Screem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login Screem.exe
+C:\Users\HP\source\repos\Login Screem\Login Screem\obj\Debug\Login Screem.pdb
